@@ -22,11 +22,12 @@ public class SecurityConfig {
     public UserDetailsService userDetailsService() {
         return new InMemoryUserDetailsManager(
                 User.withUsername("user")
-                        .password(passwordEncoder().encode("password"))
+                        .password(passwordEncoder().encode("password123" ))
                         .roles("USER")
                         .build()
         );
     }
+
     // Güvenlik yapılandırmasını yapıyoruz
     @Bean
     public SecurityFilterChain securityFilterChain(HttpSecurity http) throws Exception {
@@ -36,7 +37,8 @@ public class SecurityConfig {
                         .requestMatchers("/api/users").authenticated()  // /users/add endpoint'ine yalnızca doğrulama yapılmış kullanıcılar erişebilir
                         .anyRequest().permitAll()  // Diğer tüm istekler serbest
                 )
-                .httpBasic(httpBasic -> {});  // Basic Authentication kullan
+                .httpBasic(httpBasic -> {
+                });  // Basic Authentication kullan
         return http.build();
     }
 
@@ -47,3 +49,4 @@ public class SecurityConfig {
 
 
 }
+
