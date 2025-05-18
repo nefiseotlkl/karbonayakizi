@@ -1,8 +1,7 @@
-// src/App.js
 import React from 'react';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
-import Dashboard from './pages/Dashboard';
-import FaturaForm from './pages/FaturaForm';
+import Dashboard from './pages/Dashboardd';
+import FaturaForm from './pages/FaturaFormm';
 
 function App() {
   return (
