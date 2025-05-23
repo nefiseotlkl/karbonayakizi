@@ -17,7 +17,7 @@ import java.util.List;
 public class EmissionSummaryService {
 
     private final UserFoodRepository userFoodRepository;
-   // private final UserBillRepository userBillRepository;
+    // private final UserBillRepository userBillRepository;
     private final UserTransportRepository userTransportRepository;
 
     public UserEmissionSummaryDTO generateSummary(Long userId) {
