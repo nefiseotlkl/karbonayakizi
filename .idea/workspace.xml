@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="05fc98c9-379c-485b-bd57-7cf01f109e4c" name="Changes" comment="Geçici commit - değişiklikler kaydedildi sule">
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/fafba064-99ff-477d-a935-1427eefe93ea.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/fafba064-99ff-477d-a935-1427eefe93ea/storage_v2/_src_/database/Tubitak2025.93X9gQ.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/fafba064-99ff-477d-a935-1427eefe93ea/storage_v2/_src_/database/Tubitak2025.93X9gQ/schema/INFORMATION_SCHEMA.NBgcMw.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/fafba064-99ff-477d-a935-1427eefe93ea/storage_v2/_src_/database/Tubitak2025.93X9gQ/schema/sys.zb4BAA.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/carbon/karbonayakizi/KarbonayakiziApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/carbon/karbonayakizi/config/SecurityConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/carbon/karbonayakizi/controller/FoodEmissionController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/carbon/karbonayakizi/controller/SuggestionController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/carbon/karbonayakizi/controller/UserController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/carbon/karbonayakizi/dto/FoodConsumptionRequestDTO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/carbon/karbonayakizi/dto/UserEmissionSummaryDTO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/carbon/karbonayakizi/dto/UserFoodDTO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/carbon/karbonayakizi/model/Food.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/carbon/karbonayakizi/model/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/carbon/karbonayakizi/model/UserFood.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/carbon/karbonayakizi/repository/FoodRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/carbon/karbonayakizi/repository/UserFoodRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/carbon/karbonayakizi/repository/UserRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/carbon/karbonayakizi/service/CarbonCalculationService.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2xV3AzrScDnIR66aUhQF4JMLD8h" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "spring.configuration.checksum": "3d1a8094516cb53790aa4183a3b5c46a",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="05fc98c9-379c-485b-bd57-7cf01f109e4c" name="Changes" comment="Geçici commit - değişiklikler kaydedildi sule" />
+      <created>1748009275167</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1748009275167</updated>
+      <workItem from="1748009277166" duration="206000" />
+      <workItem from="1748009506630" duration="680000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
